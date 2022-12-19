@@ -1,8 +1,8 @@
 # :package_description
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/:vendor_slug/:package_slug/Tests?label=Tests)](https://github.com/:vendor_slug/:package_slug/actions?query=workflow%3ATests+branch%3Amain)
-[![GitHub Static Analysis Action Status](https://img.shields.io/github/workflow/status/:vendor_slug/:package_slug/Static%20Analysis?label=Static%20Analysis)](https://github.com/:vendor_slug/:package_slug/actions?query=workflow%3A"Static%20Analysis"+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/:vendor_slug/:package_slug/tests.yml?branch=main&style=flat-square&label=Tests)](https://github.com/:vendor_slug/:package_slug/actions?query=workflow%3ATests+branch%3Amain)
+[![GitHub Static Analysis Action Status](https://img.shields.io/github/actions/workflow/status/:vendor_slug/:package_slug/static.yml?branch=main&style=flat-square&label=Static%20Analysis)](https://github.com/:vendor_slug/:package_slug/actions?query=workflow%3A"Static%20Analysis"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/:vendor_slug/:package_slug.svg?style=flat-square)](https://packagist.org/packages/:vendor_slug/:package_slug)
 <!--delete-->
 ---
