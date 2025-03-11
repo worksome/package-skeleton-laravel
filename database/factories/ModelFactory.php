@@ -1,8 +1,10 @@
 <?php
 
-namespace VendorName\Skeleton\Database\Factories;
+declare(strict_types=1);
 
 /*
+namespace VendorName\Skeleton\Database\Factories;
+
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 class ModelFactory extends Factory
