@@ -16,3 +16,4 @@ parameters:
       -
         identifier: larastan.noEnvCallsOutsideOfConfig
         path: config
+        reportUnmatched: false
