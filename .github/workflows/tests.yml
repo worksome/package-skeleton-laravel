@@ -10,7 +10,6 @@ jobs:
   test:
     runs-on: ${{ matrix.os }}
     strategy:
-      fail-fast: true
       matrix:
         os: [ubuntu-latest]
         php: [8.5, 8.4]
