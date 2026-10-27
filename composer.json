@@ -26,7 +26,7 @@
         "orchestra/testbench": "^11.3",
         "pestphp/pest": "^5.3",
         "pestphp/pest-plugin-laravel": "^5.0.1",
-        "worksome/coding-style": "^5.2"
+        "worksome/coding-style": "^6.0"
     },
     "autoload": {
         "psr-4": {
@@ -57,7 +57,8 @@
         "allow-plugins": {
             "pestphp/pest-plugin": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
-            "worksome/coding-style": true
+            "worksome/coding-style": true,
+            "phpstan/extension-installer": true
         }
     },
     "extra": {
